@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WebScal3r</title>
+    <description>Not only consume technologies, Understand it!</description>
+    <link>http://webscal3r.github.io/</link>
+    <atom:link href="http://webscal3r.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 24 Dec 2015 15:13:25 +0700</pubDate>
+    <lastBuildDate>Thu, 24 Dec 2015 15:13:25 +0700</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+  </channel>
+</rss>

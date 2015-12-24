@@ -1,0 +1,10 @@
+# Site settings
+title: "WebScal3r"
+logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
+email: webscal3r@gmail.com
+description: Not only consume technologies, Understand it!
+url: "http://webscal3r.github.io" # the base hostname & protocol for your site
+github_username:  webscal3r
+
+# Build settings
+markdown: kramdown
